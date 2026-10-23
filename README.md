@@ -3,7 +3,6 @@
 An **evidence-first legal research service**. You ask a question; it finds the relevant provisions in a set of
 documents, quotes them verbatim, shows how the documents relate (amended / replaced / clarified), says what is
 clear and unclear, and **refuses to conclude when the evidence does not support a conclusion**.
-<img width="932" height="1257" alt="image" src="https://github.com/user-attachments/assets/12b89137-77b5-46dd-9b83-6e3572907a25" />
 
 > **Read this first - honesty notes**
 > 1. The brief said an existing codebase would be provided; none was. This repository was **built from scratch** as the baseline
@@ -119,6 +118,7 @@ scripts/        make_test_report.py make_failure_matrix.py make_diagram.py valid
 docs/           01_system_understanding.md architecture.* source_version_model.md failure_matrix.md test_report.md
                 evaluation_report.md evidence_report.md learning_report.md STUDY_GUIDE.md ROADMAP.md ADDING_REAL_DOCUMENTS.md
 ```
+![Uploading image.png…]()
 
 ## Known limitations (no inflated claims)
 1. **Fictional corpus only** until real documents are added; results say nothing about real law.
