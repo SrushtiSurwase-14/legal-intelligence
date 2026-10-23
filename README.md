@@ -118,8 +118,6 @@ scripts/        make_test_report.py make_failure_matrix.py make_diagram.py valid
 docs/           01_system_understanding.md architecture.* source_version_model.md failure_matrix.md test_report.md
                 evaluation_report.md evidence_report.md learning_report.md STUDY_GUIDE.md ROADMAP.md ADDING_REAL_DOCUMENTS.md
 ```
-![Uploading image.png…]()
-
 ## Known limitations (no inflated claims)
 1. **Fictional corpus only** until real documents are added; results say nothing about real law.
 2. **Lexical retrieval.** BM25 + a crude stemmer misses synonyms ("sacked" vs "terminated") and can match on generic words.
