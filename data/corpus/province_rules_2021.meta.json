@@ -1,0 +1,18 @@
+{
+  "doc_id": "province_rules_2021",
+  "title": "Northern Province Shops and Establishments Rules, 2021",
+  "jurisdiction": "Freedonia/Northern Province",
+  "issuing_authority": "Government of Northern Province (fictional)",
+  "document_type": "rules",
+  "publication_date": "2021-05-10",
+  "effective_date": "2021-06-01",
+  "amendment_status": "original",
+  "source_url": "synthetic://freedonia/northern-province/rules/2021",
+  "version": "2021-05-10",
+  "retrieval_date": "2026-10-22",
+  "role": "primary",
+  "relations": [],
+  "is_synthetic": true,
+  "file": "province_rules_2021.txt",
+  "notes": "Deliberately has a different registration threshold from the national Act, to test conflict handling."
+}

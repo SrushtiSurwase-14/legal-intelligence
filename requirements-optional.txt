@@ -1,0 +1,5 @@
+# Optional extras (the project runs and passes tests without them)
+anthropic>=0.40            # LLM analyzer mode
+sentence-transformers>=2.7 # hybrid (BM25 + embedding rerank) retriever - EXPERIMENTAL
+pypdf>=4.0                 # scripts/pdf_to_text.py
+matplotlib>=3.8            # scripts/make_diagram.py

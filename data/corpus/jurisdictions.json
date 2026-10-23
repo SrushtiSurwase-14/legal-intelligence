@@ -1,0 +1,4 @@
+{
+  "Freedonia": {"parent": null, "aliases": ["freedonia", "freedonian"]},
+  "Freedonia/Northern Province": {"parent": "Freedonia", "aliases": ["northern province"]}
+}

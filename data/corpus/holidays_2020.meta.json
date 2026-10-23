@@ -1,0 +1,20 @@
+{
+  "doc_id": "holidays_2020",
+  "title": "Freedonia Public Holidays Order, 2020",
+  "jurisdiction": "Freedonia",
+  "issuing_authority": "Ministry of Labour, Freedonia (fictional)",
+  "document_type": "order",
+  "publication_date": "2019-12-10",
+  "effective_date": "2020-01-01",
+  "amendment_status": "original",
+  "source_url": "synthetic://freedonia/order/holidays-2020",
+  "version": "2019-12-10",
+  "retrieval_date": "2026-10-22",
+  "role": "primary",
+  "relations": [
+    {"type": "supersedes", "target": "holidays_2012", "affected_sections": [],
+     "note": "Repeals and replaces the 2012 Order (10 -> 12 paid holidays)."}
+  ],
+  "is_synthetic": true,
+  "file": "holidays_2020.txt"
+}

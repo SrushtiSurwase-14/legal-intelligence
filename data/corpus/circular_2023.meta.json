@@ -1,0 +1,20 @@
+{
+  "doc_id": "circular_2023",
+  "title": "Circular No. 3 of 2023 - Clarification on Overtime Computation",
+  "jurisdiction": "Freedonia",
+  "issuing_authority": "Office of the Labour Commissioner, Freedonia (fictional)",
+  "document_type": "circular",
+  "publication_date": "2023-01-20",
+  "effective_date": "2023-02-01",
+  "amendment_status": "clarifying_instrument",
+  "source_url": "synthetic://freedonia/circular/2023-3",
+  "version": "2023-01-20",
+  "retrieval_date": "2026-10-22",
+  "role": "primary",
+  "relations": [
+    {"type": "clarifies", "target": "act_2010", "affected_sections": ["6"],
+     "note": "Clarifies that overtime is computed per day, not per week."}
+  ],
+  "is_synthetic": true,
+  "file": "circular_2023.txt"
+}

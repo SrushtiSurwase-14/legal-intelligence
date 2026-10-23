@@ -1,0 +1,17 @@
+[FICTIONAL SAMPLE DOCUMENT - NOT REAL LAW - FOR SOFTWARE TESTING ONLY]
+THE FREEDONIA SHOPS AND ESTABLISHMENTS ACT, 2010
+An Act to regulate registration, working hours, rest and wages of persons employed in shops and commercial establishments in Freedonia.
+
+Section 1. Short title and commencement. This Act may be called the Freedonia Shops and Establishments Act, 2010. It comes into force on 1 July 2010.
+
+Section 2. Definitions. In this Act, "establishment" means any shop, office, hotel or restaurant in which one or more persons are employed for wages. "Employee" means a person employed for wages in an establishment.
+
+Section 3. Registration. Every establishment employing 10 or more persons shall be registered with the Labour Commissioner within 30 days of commencement of its business. The registration certificate shall be displayed at a prominent place in the establishment.
+
+Section 4. Daily hours of work. No employee shall be required or allowed to work for more than 9 hours in a day.
+
+Section 5. Weekly rest. Every employee shall be allowed one paid rest day in every period of 7 days.
+
+Section 6. Overtime. An employee who works in excess of the daily limit fixed under Section 4 shall be paid for the extra hours at twice the ordinary rate of wages.
+
+Section 7. Penalties. An employer who contravenes Section 3, Section 4 or Section 6 shall be punishable with a fine not exceeding 5000 units. A repeat contravention shall be punishable with a fine not exceeding 10000 units.

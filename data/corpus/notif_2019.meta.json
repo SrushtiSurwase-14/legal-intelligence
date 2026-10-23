@@ -1,0 +1,20 @@
+{
+  "doc_id": "notif_2019",
+  "title": "Freedonia Shops and Establishments (Amendment) Notification, 2019",
+  "jurisdiction": "Freedonia",
+  "issuing_authority": "Ministry of Labour, Freedonia (fictional)",
+  "document_type": "notification",
+  "publication_date": "2019-03-15",
+  "effective_date": "2019-04-01",
+  "amendment_status": "amending_instrument",
+  "source_url": "synthetic://freedonia/notification/2019",
+  "version": "2019-03-15",
+  "retrieval_date": "2026-10-22",
+  "role": "primary",
+  "relations": [
+    {"type": "amends", "target": "act_2010", "affected_sections": ["4"],
+     "note": "Substitutes the daily limit of 9 hours with 8 hours."}
+  ],
+  "is_synthetic": true,
+  "file": "notif_2019.txt"
+}

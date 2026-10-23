@@ -1,0 +1,19 @@
+{
+  "doc_id": "blog_2018",
+  "title": "Example & Partners LLP briefing: The Freedonia Shops Act explained (2018)",
+  "jurisdiction": "Freedonia",
+  "issuing_authority": "Example & Partners LLP (fictional law firm)",
+  "document_type": "commentary",
+  "publication_date": "2018-06-10",
+  "effective_date": null,
+  "amendment_status": "not_applicable",
+  "source_url": "synthetic://freedonia/commentary/2018-briefing",
+  "version": "2018-06-10",
+  "retrieval_date": "2026-10-22",
+  "role": "secondary",
+  "relations": [
+    {"type": "describes", "target": "act_2010", "affected_sections": [], "note": "Law-firm summary of the Act."}
+  ],
+  "is_synthetic": true,
+  "file": "blog_2018.txt"
+}
