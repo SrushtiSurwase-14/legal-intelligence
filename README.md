@@ -187,7 +187,7 @@ legal-intelligence/
 
 Screenshot After Running Evaluation 
 
-<img width="1055" height="567" alt="image" src="https://github.com/user-attachments/assets/774d21f6-41eb-4dcf-94fa-6282d97b3c18" />
+<img width="1193" height="598" alt="image" src="https://github.com/user-attachments/assets/072a40d7-cb20-41a5-bb65-296fd1f39981" />
 
 
 
