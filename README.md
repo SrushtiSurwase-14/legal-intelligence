@@ -185,6 +185,12 @@ legal-intelligence/
 | [`docs/STUDY_GUIDE.md`](docs/STUDY_GUIDE.md) · [`ROADMAP.md`](docs/ROADMAP.md) | Learning guide and 7-day plan |
 | [`docs/learning_report.md`](docs/learning_report.md) | Template — to be written by the candidate |
 
+Screenshot After Running Evaluation 
+
+<img width="1055" height="567" alt="image" src="https://github.com/user-attachments/assets/774d21f6-41eb-4dcf-94fa-6282d97b3c18" />
+
+
+
 <div align="center">
 
 *Learn the system by understanding it. Improve it by evidence. Prove it by tests. Leave it reproducible.*
